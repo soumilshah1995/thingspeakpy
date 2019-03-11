@@ -1,5 +1,0 @@
-setup.py
-thingspeakpy.egg-info/PKG-INFO
-thingspeakpy.egg-info/SOURCES.txt
-thingspeakpy.egg-info/dependency_links.txt
-thingspeakpy.egg-info/top_level.txt
